@@ -11,7 +11,7 @@ provider "vsphere" {
 
 variable "vm_name" {
   type = "string"
-  description = "Name of Virtual machine for ShowMe"
+  description = "Name of Virtual machine for ShowMe2"
 }
 
 variable "num_cpus" {
